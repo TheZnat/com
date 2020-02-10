@@ -1,1 +1,1 @@
-[Портфолио](https://theznat.github.io/com/)
+[TheZnat](https://theznat.github.io/com/)
